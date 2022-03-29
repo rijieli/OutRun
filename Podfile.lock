@@ -15,13 +15,12 @@ DEPENDENCIES:
   - SnapKit (~> 5.0.0)
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
-    - Charts
-    - CoreStore
-    - SnapKit
   trunk:
     - Cache
+    - Charts
     - CoreGPX
+    - CoreStore
+    - SnapKit
 
 SPEC CHECKSUMS:
   Cache: 48762993ec44e1d93483c4d4a13edd18452326f4
@@ -32,4 +31,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: f70b509dcd2b5726c27ffecedc13ac3f890453f5
 
-COCOAPODS: 1.8.0
+COCOAPODS: 1.11.3
